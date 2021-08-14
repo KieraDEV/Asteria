@@ -1,2 +1,3 @@
 # Asteria
-Asteria - Reforming the PlayerServers Era with Free 2 GB Servers.
+
+Tournaments and Bracket Services for free and wagers in your favorite games.
